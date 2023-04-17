@@ -1,0 +1,3 @@
+john.doe@example.com,John,Doe,85
+jane.smith@example.com,Jane,Smith,70
+adam.jackson@example.com,Adam,Jackson,55
